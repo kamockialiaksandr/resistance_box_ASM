@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=resistance_box_ASM_SCH.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\resistance_box_PCB\resistance_box_PCB.PrjPcb
+Record=SubProject|SourceDocument=resistance_box_ASM_SCH.MbsDoc|ProjectPath=..\resistance_box_PCB\resistance_box_PCB.PrjPcb
+Record=DiagramHierarchy|SourceDocument=resistance_box_ASM_SCH.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\resistance_box_PCB\resistance_box_PCB.PrjPcb
+Record=SubProject|SourceDocument=resistance_box_ASM_SCH.MbsDoc|ProjectPath=..\resistance_box_PCB\resistance_box_PCB.PrjPcb
+Record=DiagramHierarchy|SourceDocument=resistance_box_ASM_SCH.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\resistance_box_PCB\resistance_box_PCB.PrjPcb
+Record=SubProject|SourceDocument=resistance_box_ASM_SCH.MbsDoc|ProjectPath=..\resistance_box_PCB\resistance_box_PCB.PrjPcb
